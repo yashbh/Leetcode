@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashbh/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/yashbh/Leetcode/tree/master/0049-group-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashbh/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashbh/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashbh/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yashbh/Leetcode/tree/master/0049-group-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yashbh/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashbh/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashbh/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -48,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashbh/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/yashbh/Leetcode/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashbh/Leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/yashbh/Leetcode/tree/master/0049-group-anagrams) |
 ## Stack
 |  |
 | ------- |
